@@ -60,7 +60,7 @@ function seleccionarProductos() {
     console.log("El costo total es: " + total);
 }
 
-// Inicializar el simulador
+
 function iniciarSimulador() {
     mostrarProductos();
     seleccionarProductos();
